@@ -2,8 +2,6 @@
 <h1 align="center">Hello, I'm <a href="https://github.com/GiampieroFC">Giampiero</a> 👋</h1>
 </div>
 
-<hr>
-
 ## About Me
 
 - 👨‍💻 FullStack Developer
