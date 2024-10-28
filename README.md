@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋🏼 Hello! I'm a full-stack developer specializing in backend development with a strong foundation in JavaScript, TypeScript, and Rust. I have extensive experience developing personal projects, including location-based applications, URL shorteners, and a CrossFit API that provides daily workouts.
+👋🏼 Hi, I'm Giampiero, a software engineering enthusiast, who constantly enjoys learning and experimenting with new technologies. I'm interested in working on high-performance and optimization projects, exploring languages ​​like TypeScript and Rust (but also Go, Dart, and Lua) for robust and efficient applications. I'm also drawn to research and enjoy creating content that combines complex technical and conceptual topics.
+
+With a solid background in full-stack development, my focus is on scalable solutions for startups and production environments, with a special inclination towards frameworks and tools like ExpressJS, NestJS, Svelte, and Astro to maximize performance. I like to collaborate on innovative projects that not only optimize resources but challenge conventional approaches to software and personal development.
 
 👯 I'm looking to collaborate on a company or on interesting open source projects.
 
